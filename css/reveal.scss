@@ -1672,7 +1672,7 @@ $controlsArrowAngleActive: 36deg;
 	overflow: auto;
 	box-sizing: border-box;
 	text-align: left;
-	font-family: Helvetica, sans-serif;
+	font-family: helvetica, arial, 'hiragino kaku gothic pro', meiryo, 'ms pgothic', sans-serif;
 	-webkit-overflow-scrolling: touch;
 
 	.notes-placeholder {
@@ -1780,5 +1780,5 @@ $controlsArrowAngleActive: 36deg;
 }
 
 .reveal section p {
-/*    font-size: 80% !important; */
+    font-size: 70% !important;
 }
